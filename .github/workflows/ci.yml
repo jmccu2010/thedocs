@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v3.8.2
+      - uses: actions/setup-python@v3.8
         with:
-          python-version: 3.8.2
+          python-version: 3.8
       - uses: actions/cache@v4
         with:
           key: ${{ github.ref }}
