@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: myDocs
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -68,4 +68,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/---------"  target="_blank" rel="noopener">---------</a>
+  &copy; 2024 <a href="https://github.com/---------"  target="_blank" rel="noopener">---------</a>
