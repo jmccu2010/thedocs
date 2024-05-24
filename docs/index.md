@@ -6,7 +6,7 @@ hide:
 ---
 <h1 style="text-align: center;">Welcome to myDocs Portal</h1>
 
-Hi there, the purpose of myDocs Portal is to be a placeholder where I will document the outcomes of projects that I'm about to undertake.  
+Hi there, the purpose of myDocs Portal is to be a placeholder where I will document the outcomes of projects that I'm about to undertake. 
 
 
 **Upcoming Projects**
