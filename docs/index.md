@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+---
+hide:
+  - path
+  - navigation
+  - toc
+---
+<h1 style="text-align: center;">Welcome to myDocs Portal</h1>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi there, the purpose of myDocs Portal is to be a placeholder where I will document the outcomes of projects that I'm about to undertake.  
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**Upcoming Projects**
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Setup Proxmox Server
+- Setup Docker Server  
+    - Host MkDocs (myDocs website) internally before publishing to GitHub  
+    - Host Jekyll (Online-CV) internally before publishing to GitHub  
+ - Setup Jellyfin Media Server  
+ - Setup pfSense Server & learn about networking
+ - Setup Wireshark Server & learn about network traffic
+ - Deploy lightweight VMs (Linux Mint)  

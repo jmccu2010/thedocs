@@ -1,26 +1,36 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: myDocs Portal
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+#  - 'my Projects':
+#    - 'Proxmox Virtual Environment':
+#      - 'projects/pageA.md'
 
-site_author: ---------
+#   - 'Docker':
+#      - 'projects/pageB.md'
+
+
+site_author: Jack McCullagh
 site_description: >-
-  DESCRIPTION
+  The purpose of myDocs Portal is to be a placeholder where I will document outcomes of projects that I'm about to undertake.
 
 # Repository
-repo_name: ---/REPO_NAME
-repo_url: https://github.com/---------/REPO_NAME
+# repo_name: ---/REPO_NAME
+# repo_url: https://github.com/---------/REPO_NAME
 
 # Configuration
 theme:
+  font:
+    text: Roboto
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
+#    - navigation.tabs
+#    - navigation.sections
     - toc.integrate
     - navigation.top
   language: en
+  
   palette:
     - scheme: default
       toggle:
@@ -39,13 +49,13 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/---------
+      link: https://github.com/#
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/---------
+      link: https://twitter.com/#
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/---------
+      link: https://linkedin.com/in/#
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/---------/
+      link: https://www.instagram.com/#
 
 # extra_javascript:
 
@@ -62,10 +72,16 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - footnotes
   
-  
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      
 plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/---------"  target="_blank" rel="noopener">---------</a>
+  &copy; 2024 -  <a href="https://jmccu2010.github.io/thedocs/"  target="_blank" rel="noopener">myDocs Portal - Jack McCullagh</a>
