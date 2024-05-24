@@ -1,5 +1,9 @@
 # Project information
+<<<<<<< HEAD
 site_name: myDocs Portal
+=======
+site_name: myDocs
+>>>>>>> 511a6882404fe889d2858a2d5ed8a569ab3c833e
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -84,4 +88,8 @@ plugins:
   - search
 
 copyright: |
+<<<<<<< HEAD
   &copy; 2024 -  <a href="https://jmccu2010.github.io/thedocs/"  target="_blank" rel="noopener">myDocs Portal - Jack McCullagh</a>
+=======
+  &copy; 2024 <a href="https://github.com/---------"  target="_blank" rel="noopener">---------</a>
+>>>>>>> 511a6882404fe889d2858a2d5ed8a569ab3c833e
