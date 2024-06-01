@@ -21,8 +21,7 @@ site_description: >-
 
 # Configuration
 theme:
-  font:
-    text: Roboto
+  font: false
   name: material
   features:
 #    - navigation.tabs
