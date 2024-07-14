@@ -25,4 +25,4 @@ The reason why I built this site is to continue to:
 {: .note }
 Some of the content on this site has been produced with information taken from other sources; these sources will be referenced at the bottom of the relevant page.
 
-Enjoy.
+Enjoy
