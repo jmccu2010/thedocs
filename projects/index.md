@@ -12,7 +12,7 @@ has_toc: false
 
 
 ### Current Proects
- - Setting up theDocs Portal
+ - Setting up theDocs Portal.
  - Setting up GitHub Profile
 
 
