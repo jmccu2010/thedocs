@@ -12,7 +12,7 @@ theDocs Portal is my repository for documenting and referencing steps I took whi
 
 ---
   
-Hi there, I’m Jack and I’ve built this site to be a placeholder where I can show off projects that I’m interested in. I’ve been in the IT sector for nearly 15 years. I started off as a support desk representative, and now I’m a product engineer.
+Hi there, I’m Jack and I’ve built this site to be a placeholder where I can show off projects that I’m interested in. I’ve been in the IT sector for nearly 15 years. I started off as a support desk representative, and now I’m a product engineer..
 
 My current job role requires me to test and develop solutions to problems, once a solution has been found, it’s deployed to production using GitHub or Microsoft Intune. During testing and development, I get to break technology to understand cause and effect. I find this exciting.
 
