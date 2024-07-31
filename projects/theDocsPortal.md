@@ -7,8 +7,13 @@ nav_order: 1
 
 ## About this Project
 
-## Setting up 'Just The Docs' 
-ss
+
+
+## Setting up 'theDocs Portal'
+
+
+[Just the Docs website](https://just-the-docs.com/)
+
 ### ss
 s
 

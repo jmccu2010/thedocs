@@ -11,7 +11,7 @@ has_toc: false
 ## My Goals
 
 
-### Current Proects
+### Current Projects
  - Setting up theDocs Portal.
  - Setting up GitHub Profile
 
