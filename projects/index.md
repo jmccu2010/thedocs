@@ -22,4 +22,4 @@ Proxmox Virtual Environment Server
 1. Deploy Proxmox Virtual Environment
 Build local LXC Container(s) and Virtual Machine.
 2. Build ‘Just the Docs’ Jekyll Server for ‘theDocs Portal’
-3. Create a SAMBA Share Server
+3. Create a SAMBA Share Server.
