@@ -2,24 +2,33 @@
 layout: default
 title: Projects
 nav_order: 2
-# has_children: true
-has_toc: false
+has_children: false
+has_toc: true
 ---
 
 ## About this Project
 
 ### Hardware
+
 ThinkCentre M715 Tiny (2nd Gen)  
-AMD Ryzen 3 PRO 2200GE with Radeon Vega Graphics  Unknown CPU @ 3.2GHz  
+AMD Ryzen 3 PRO 2200GE with Radeon Vega Graphics  
 16GB of RAM  
-500 GB SSD Drive  
-500GB M.2 Drive  
+500 GB SSD drive - This wil be replaced with a 2TB SSD drive
+500 GB M.2 drive - This will host the LXC Containers
 
 ### Operating System
+
 Proxmox Virtual Environment Server
 
-### What do I want to achieve?
-1. Deploy Proxmox Virtual Environment
-Build local LXC Container(s) and Virtual Machine.
-2. Build ‘Just the Docs’ Jekyll Server for ‘theDocs Portal’
-3. Create a SAMBA Share Server.
+### What do I want to build?
+
+I plan to :
+
+1. Redeploy Proxmox OS  
+Although I've already installed Proxmox on the 500 GB M.2 drive, I plan to upgrade internal storage from a 500 GB SSD to a 2TB SSD drive, I'll perform a clean install of Proxmox OS
+
+2. Deploy two LXC Containers
+   1. Jellyfin with Cockpit Web Console
+   2. Docker Server
+
+3. Deploy Linux Mint Virtual machine
