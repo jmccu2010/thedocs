@@ -12,7 +12,7 @@ theDocs Portal is my repository for documenting and referencing steps I took whi
 
 ---
   
-Hi there! I'm Jack and I've built this site to showcase projects I'm passionate about. I've been in the IT sector for nearly 15 years, starting as a support desk representative and progressing to my current role as a product engineer.
+Hi there! I'm Jack and I've built this site to showcase projects I'm passionate about. I've been in the IT sector for  15 years, starting as a support desk representative and progressing to my current role as a product engineer.
 
 The reason why I built this site is to:
 
