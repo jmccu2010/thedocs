@@ -11,6 +11,7 @@ theme: just-the-docs
 #     hide_icon: true # set to true to hide the external link icon - defaults to false
 #     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
+favicon_ico: "/assets/images/favicon.ico"
 search_enabled: false
 
 callouts:
