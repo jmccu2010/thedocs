@@ -12,7 +12,9 @@ theDocs Portal is my repository for documenting and referencing steps I took whi
 
 ---
   
-Hi there! I'm Jack and I'm driven by a strong desire to understand how technology truly functions. I believe in proactively exploring the boundaries of systems, not to cause disruption, but to anticipate potential issues and develop robust solutions. By experimenting in safe environments like sandboxes, I like to analyze cause-and-effect relationships – for instance, how altering a configuration setting impacts application behavior. This hands-on approach allows me to continuously learn and enhance my own technical expertise while preparing me to effectively troubleshoot and resolve complex problems.
+Hi there!  
+
+I'm Jack and I'm driven by a strong desire to understand how technology truly functions. I believe in proactively exploring the boundaries of systems, not to cause disruption, but to anticipate potential issues and develop robust solutions. By experimenting in safe environments like sandboxes, I like to analyze cause-and-effect relationships – for instance, how altering a configuration setting impacts application behavior. This hands-on approach allows me to continuously learn and enhance my own technical expertise while preparing me to effectively troubleshoot and resolve complex problems.
 
 The reason why I built this site is to:
 
