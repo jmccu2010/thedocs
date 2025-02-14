@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Proxmox
-parent: S
-grand_parent: X
-has_children: false
-has_toc: false
+parent: Main Navigation
+nav_order: 4
+has_children: true
+has_toc: true
 ---
 
 ## About this Project
