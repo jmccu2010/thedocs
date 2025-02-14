@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Proxmox
-parent: Proxmox
-nav_order: 2
+parent: S
+grand_parent: X
 has_children: false
 has_toc: false
 ---

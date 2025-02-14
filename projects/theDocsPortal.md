@@ -17,7 +17,9 @@ When doing my research into self hosting webpage content, I first came across MK
 1. Markdown Language
 2. Building site locally
 3. Deploying site to GitHub Pages
-4. Editing website via Github Codespace
-
+4. Editing website via Github Codespace  
+  
+  
+---
 [^1]: Just the Docs - https://github.com/just-the-docs/just-the-docs?tab=readme-ov-file#installation  
 [^2]: Material for MkDocs - https://squidfunk.github.io/mkdocs-material/
