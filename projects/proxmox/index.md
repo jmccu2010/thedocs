@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proxmox
-parent: Main Navigation
+parent: Projects
 nav_order: 4
 has_children: true
 has_toc: true
