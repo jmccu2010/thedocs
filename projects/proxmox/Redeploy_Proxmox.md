@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Redeploy Proxmox
 parent: Proxmox
 nav_order: 1
