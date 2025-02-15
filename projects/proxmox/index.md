@@ -32,3 +32,11 @@ I plan to :
    2. Docker Server
 
 3. Deploy Linux Mint Virtual Machine
+
+
+1. TOC
+{:toc}
+
+2. Test
+{:toc}
+
