@@ -33,3 +33,4 @@ I plan to :
 
 3. Deploy Linux Mint Virtual Machine
 
+4. Test
