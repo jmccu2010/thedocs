@@ -32,5 +32,3 @@ I plan to :
    2. Docker Server
 
 3. Deploy Linux Mint Virtual Machine
-
-4. Test
