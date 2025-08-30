@@ -10,5 +10,4 @@ nav_order: 1
 
 ```console
 sudo apt-get update
-
 ```
