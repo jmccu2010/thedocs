@@ -33,6 +33,5 @@ I plan to :
 3. Deploy Windows 11 Virtual Machine
 
 
----
-### My Goal
+
 The goal is to have a mini server were I can access my media content locally within my network and from within each of the Containers or VMs. 
