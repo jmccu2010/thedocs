@@ -23,6 +23,8 @@ has_toc: true
 
 ### What do I want to build?
 
+
+<!--
 I plan to :
 
 1. Redeploy Proxmox OS  
@@ -35,3 +37,4 @@ I plan to :
 
 
 The goal is to have a mini server were I can access my media content locally within my network and from within each of the Containers or VMs. 
+-->
