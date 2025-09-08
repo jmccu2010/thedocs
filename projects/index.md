@@ -8,7 +8,7 @@ has_toc: true
 
 ## My Projects
 
-I will be building my projects using the following hardware & software.
+I will be building my projects using the following hardware, software & Resources
 
 ### Hardware
 - ThinkCentre M715 Tiny (2nd Gen)  
