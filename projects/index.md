@@ -19,6 +19,10 @@ I will be building my projects using the following Hardware, Software & Resource
 
 ### Operating System
 - Proxmox Virtual Environment Server
+    - Turnkey MediaServer (Jellyfin)
+    - Turnkey Torrent Server 
+    - TrueNAS
+    - Windows 11 Pro
 
 ### External Resources
 - GitHub
