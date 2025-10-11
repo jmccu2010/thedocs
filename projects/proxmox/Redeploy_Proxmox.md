@@ -37,8 +37,7 @@ From a Web Browser on another computer:
 echo "deb [http://download.proxmox.com/debian/pve](http://download.proxmox.com/debian/pve) bookworm pve-no-subscription" > /etc/apt/sources.list.d/pve-no-subscription.list
 ```
 4. Update and Upgrade: Use the following commands to get the latest software updates:
-
 ```
 apt update && apt dist-upgrade -y
 ```
-5. Reboot the Proxmox Server.
+5. Reboot the Proxmox Server.  
